@@ -39,3 +39,7 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# Add Foundation to your Rails app
+gem 'foundation-rails'
+# Include 'rails_12factor' gem to enable all platform features
+gem 'rails_12factor', group: :production
